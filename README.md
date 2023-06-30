@@ -1,8 +1,11 @@
-### Hand-Gesture-Recognition
+# Hand-Gesture-Recognition
 
 ## Dataset: https://www.kaggle.com/datasets/datamunge/sign-language-mnist 
 
-Training and Validation plots:
+## Model
+![Screenshot](image2.png)
+
+## Training and Validation plots:
 
 ![Screenshot](image_plot.png) ![Screenshot](image_plot2.png)
 
